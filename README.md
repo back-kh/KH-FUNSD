@@ -1,2 +1,4 @@
 # KH-FUNSD
-The responsibility for the paper 'KH-FUNSD:...' lies with the authors. This paper is currently under review, and the documentation will be released once it is published.
+This work is currently under review for APSIPA ASC 2025. The dataset and full documentation will be made publicly available upon publication.
+
+
