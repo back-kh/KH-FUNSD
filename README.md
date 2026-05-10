@@ -46,14 +46,13 @@ KH-FUNSD addresses these challenges with tailored resources and analysis.
 - **Language**: Khmer
 - **Document Types**: 3 (receipts, invoices, quotations)
 - **Annotation Levels**: 3 (hierarchical)
-- **Availability**: Under journal review – will be released upon publication (You can request by email)
 
 ## 🔗 Dataset Access
 
 > ⚠️ **Status**: The dataset is currently **under journal review** . Full dataset and documentation will be made publicly available upon publication.
 
 
-*Note: Dataset contributions will be accepted after publication.*
+*Note: Dataset contributions will be accepted after publication.(You can request by email)*
 
 ## 📧 Contact
 
